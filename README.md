@@ -5,14 +5,6 @@ Thus, Enabling wireless mobile based control of appliances in a domestic setting
 The code in this repository is only of Android and not the backend.<br>
 Backend consists of  a raspberry pi running Django server, and a main server also running Django server.<br>
 
-This can be understood using, the two models 
-<ul>
-  <li>Local Server Model</li>
-  <img src="https://github.com/bhaskargoyal/RaspmeIOT/blob/master/localserver.png">
-  <li>Big Model</li>
-  <img src="https://github.com/bhaskargoyal/RaspmeIOT/blob/master/bigmodel.png">
-</ul>
-
 Their are 4 java activity files
 <ul>
 <li>HomeActivity.java</li>
